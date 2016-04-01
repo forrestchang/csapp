@@ -20,7 +20,8 @@ int main(void) {
   return 0;
 }
 
-/* Output:
+/*
+Output:
 fun1(0x00000076)=0x00000076
 fun2(0x00000076)=0x00000076
 ---
